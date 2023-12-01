@@ -1,8 +1,8 @@
 
 document.addEventListener('visibilitychange', function () {
   if (document.visibilityState === 'hidden') {
-
-    const sendButton = document.querySelector("button#ff-submit-1890474584");
+  
+    const sendButton = document.querySelector(".ff-button-bar button");
     sendButton && sendButton.click();
 
     setTimeout(function () {
