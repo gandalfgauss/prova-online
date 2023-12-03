@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prova-online/static/css/main.4eec0d32.css",
+    "main.js": "/prova-online/static/js/main.7a3a225c.js",
+    "static/js/787.94e9cbea.chunk.js": "/prova-online/static/js/787.94e9cbea.chunk.js",
+    "static/media/mathGif.gif": "/prova-online/static/media/mathGif.6c1c9a02fa4bc621bfd2.gif",
+    "index.html": "/prova-online/index.html",
+    "main.4eec0d32.css.map": "/prova-online/static/css/main.4eec0d32.css.map",
+    "main.7a3a225c.js.map": "/prova-online/static/js/main.7a3a225c.js.map",
+    "787.94e9cbea.chunk.js.map": "/prova-online/static/js/787.94e9cbea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eec0d32.css",
+    "static/js/main.7a3a225c.js"
+  ]
+}
