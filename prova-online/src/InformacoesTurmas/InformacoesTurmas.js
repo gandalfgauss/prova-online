@@ -14,8 +14,8 @@ const InformacoesTurmas = [
 
   {
     nome: "2R2",
-    rotaUrl: "2R2",
-    linkFormulario: "https://formfacade.com/include/110324158331590689605/form/1FAIpQLSdHAW_ni3Vp9BeugtytSNqWWQbYBhSp9sY6w2gcsnzPf5wEzA/classic.js?div=ff-compose"
+    rotaUrl: "2R2-2023",
+    linkFormulario: "https://formfacade.com/include/110324158331590689605/form/1FAIpQLSf3bLUX9ULxWzxHnnfhxjAI3bS_zTUD5TfzVFfDfngCO_8GQw/classic.js?div=ff-compose"
   },
 
   {

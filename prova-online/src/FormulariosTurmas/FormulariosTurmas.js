@@ -22,7 +22,7 @@ const Turma = ({infoTurma}) => {
         sendButton && sendButton.click();
 
         setTimeout(function () {
-          window.location.href = "https://www.google.com";
+          window.location.href = "https://gandalfgauss.github.io/prova-online";
         }, 300);
       }
     };
